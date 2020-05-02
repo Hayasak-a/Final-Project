@@ -1,0 +1,47 @@
+Name: Juli Solstice
+Date: 5-2-2020
+
+Project: Corona shoot game
+Group's repository: https://github.com/yh17/Final-Project
+
+
+
+What is something you learned by reviewing this group's project?
+Made it easy to see importance of balance between complexity / user friendliness
+ 
+
+In what ways does this game reflect the theme?
+Fighting a virus
+ 
+
+What is something you saw in this group's project that you would like to apply to your own future games?
+Simple enemy animations
+ 
+
+What suggestions would you have for this group to improve the game?
+Make player movement much less twitchy
+ 
+
+Was there anything in the GDScript that was confusing to you? If so, what?
+
+ No
+
+Is it clear that every group member participated?
+
+ No
+
+Does the repository contain an appropriate LICENSE?
+
+ Yes
+
+What is something the group could add to the README.md to make it more descriptive?
+
+ The README is basically empty, so literally anything
+
+Pay a compliment to the group based on the quality of the game.
+Good job on the enemies!
+
+
+How many of your points would you allocate to this project?
+
+1
